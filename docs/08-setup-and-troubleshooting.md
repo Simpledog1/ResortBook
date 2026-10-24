@@ -14,7 +14,7 @@ How to get ResortBook running from a fresh computer, and what to do when the set
 
 I have **not** tested other Flutter versions, other PocketBase versions, macOS, Linux or an Android emulator. The Week 1 report mentions a Linux laptop I could not set up because of the network, so Linux is untested. The Week 2 report mentions Windows 11. The checks in these docs ran on the Windows 10 machine above.
 
-Repository: <https://github.com/Simpledog1/6ADET-Final-Project-ResortBook-.git>
+Repository: <https://github.com/Simpledog1/ResortBook.git>
 
 ## What to install
 
@@ -29,8 +29,8 @@ Repository: <https://github.com/Simpledog1/6ADET-Final-Project-ResortBook-.git>
 ## Steps
 
 ```bash
-git clone https://github.com/Simpledog1/6ADET-Final-Project-ResortBook-.git
-cd 6ADET-Final-Project-ResortBook-
+git clone https://github.com/Simpledog1/ResortBook.git
+cd ResortBook
 flutter pub get
 ```
 

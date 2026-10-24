@@ -66,7 +66,7 @@ Push to `main` (or run the workflow under **Actions > Deploy web demo > Run work
 To build locally instead:
 
 ```bash
-flutter build web --release --base-href "/6ADET-Final-Project-ResortBook-/" --dart-define=POCKETBASE_URL=https://your-name.example.com
+flutter build web --release --base-href "/ResortBook/" --dart-define=POCKETBASE_URL=https://your-name.example.com
 ```
 
 ## Step 5. Final check

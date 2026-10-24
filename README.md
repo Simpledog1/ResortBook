@@ -6,7 +6,7 @@
 
 **Course:** Applications Development and Emerging Technologies (6ADET), Holy Angel University
 **Author:** [Simpledog1](https://github.com/Simpledog1)
-**Web build:** https://simpledog1.github.io/6ADET-Final-Project-ResortBook-/ — see [Web build and deployment](#web-build-and-deployment) (it needs a publicly hosted PocketBase and a login)
+**Web build:** https://simpledog1.github.io/ResortBook/ — see [Web build and deployment](#web-build-and-deployment) (it needs a publicly hosted PocketBase and a login)
 **Demo video:** recorded, and compressed to 9.7 MB so it is ready to upload. It is not uploaded yet, so there is no link; see [Video demonstration](#video-demonstration).
 **AI use:** built with heavy AI help: Gemini (Google) for the first version (Sept 23 – Oct 3), then Claude (Anthropic) for most of the current code, tests and docs. I set the requirements, ran and tested everything, and decided what to keep. Details in [AI-USAGE.md](AI-USAGE.md).
 
@@ -60,8 +60,8 @@ Front-desk staff and managers of small-to-medium resorts. It is an internal staf
 **Tested with:** Flutter 3.47.5 (stable) and Dart 3.13.4 (the project requires Dart `^3.8.0`), PocketBase 0.40.4, on Windows 10 (64-bit AMD/Intel). Other versions and operating systems are untested. Full setup, the exact collection fields and a troubleshooting table (network failures, wrong PocketBase download, locked files) are in [docs/08-setup-and-troubleshooting.md](docs/08-setup-and-troubleshooting.md).
 
 ```bash
-git clone https://github.com/Simpledog1/6ADET-Final-Project-ResortBook-.git
-cd 6ADET-Final-Project-ResortBook-
+git clone https://github.com/Simpledog1/ResortBook.git
+cd ResortBook
 flutter pub get
 ```
 
